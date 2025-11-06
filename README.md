@@ -22,7 +22,6 @@
 - [⚡ Quick Start](#-quick-start)
 - [🚀 Running RASALoRE](#-running-rasalore)
 - [📝 Citation](#-citation)
-- [📄 License](#-license)
 
 ## 🎯 Abstract
 
