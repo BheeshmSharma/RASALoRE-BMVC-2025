@@ -194,9 +194,9 @@ If you find this work useful in your research, please cite:
 
 ```bibtex
 @inproceedings{
-anonymous2025rasalore,
+Sharma2025rasalore,
 title={{RASAL}o{RE}: Region Aware Spatial Attention with Location-based Random Embeddings for Weakly Supervised Anomaly Detection in Brain MRI Scans},
-author={Bheeshm Sharma, Karthikeyan Jaganathan, Balamurugan Palaniappan},
+author={Bheeshm Sharma, Karthikeyan Jaganathan and Balamurugan Palaniappan},
 booktitle={The Thirty Sixth British Machine Vision Conference},
 year={2025},
 url={https://openreview.net/forum?id=A2Kylh60ai}
