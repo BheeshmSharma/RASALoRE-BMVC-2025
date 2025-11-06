@@ -1,4 +1,4 @@
-# DDPT (Dual Prompt Tuning) README
+# DDPT (Discriminative Dual Prompt Tuning)
 
 ## Overview
 DDPT is a vision-language model adaptation framework (based on CLIP with CoOp and VPT extensions) for tasks like medical image analysis (e.g., brain tumor detection in BraTS datasets). This README covers setup, usage, and recent updates to make the system more flexible via command-line interfaces.
