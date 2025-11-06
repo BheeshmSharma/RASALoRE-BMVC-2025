@@ -3,6 +3,12 @@
 ## Overview
 DDPT is a vision-language model adaptation framework (based on CLIP with CoOp and VPT extensions) for tasks like medical image analysis (e.g., brain tumor detection in BraTS datasets). This README covers setup, usage, and recent updates to make the system more flexible via command-line interfaces.
 
+
+<div align="center">
+  <img src="../Figures/DDPT_Arch.png" alt="DDPT Architecture" width="800"/>
+  <p><em>DDPT Framework Architecture</em></p>
+</div>
+
 ## Recent Changes (From AI-Assisted Session)
 The following updates were made to improve usability:
 - **run.sh Modifications**:
