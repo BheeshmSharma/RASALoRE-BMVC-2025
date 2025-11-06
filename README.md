@@ -3,8 +3,8 @@
 
 **Weakly Supervised Anomaly Detection in Brain MRI Scans**
 
+- [![Paper](https://img.shields.io/badge/Paper-arXiv-red.svg)](https://arxiv.org/pdf/2510.08052)
 <!-- 
-- [![Paper](https://img.shields.io/badge/Paper-arXiv-red.svg)](https://arxiv.org/abs/your-paper-link)
 - [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 - [![Python](https://img.shields.io/badge/Python-3.8+-green.svg)](https://python.org)
 - [![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-orange.svg)](https://pytorch.org)
@@ -29,7 +29,7 @@
 Weakly Supervised Anomaly detection (WSAD) in brain MRI scans is an important challenge useful to obtain quick and accurate detection of brain anomalies, when precise pixel-level anomaly annotations are unavailable and only weak labels (e.g., slice-level) are available. In this work, we propose RASALoRE: Region Aware Spatial Attention with Location-based Random Embeddings, a novel two-stage WSAD framework. In the first stage, we introduce a Discriminative Dual Prompt Tuning (DDPT) mechanism that generates high-quality pseudo weak masks based on slice-level labels, serving as coarse localization cues. In the second stage, we propose a segmentation network with a region-aware spatial attention mechanism that relies on fixed location-based random embeddings. This design enables the model to effectively focus on anomalous regions. Our approach achieves state-of-the-art anomaly detection performance, significantly outperforming existing WSAD methods while utilizing less than 8 million parameters. Extensive evaluations on the BraTS20, BraTS21, BraTS23, and MSD datasets demonstrate a substantial performance improvement coupled with a significant reduction in computational complexity.
 
 <div align="center">
-  <img src="/Figures/RASALoRE_Architecture.png" alt="RASALoRE Architecture" width="800"/>
+  <img src="/Figures/RASALoRE_Arch.png" alt="RASALoRE Architecture" width="800"/>
   <p><em>RASALoRE Framework Architecture</em></p>
 </div>
 
