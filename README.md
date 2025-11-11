@@ -2,8 +2,8 @@
 <div align="center">
 
 **Weakly Supervised Anomaly Detection in Brain MRI Scans**
-
-- [![Paper](https://img.shields.io/badge/Paper-arXiv-red.svg)](https://arxiv.org/pdf/2510.08052)
+-
+[![Paper](https://img.shields.io/badge/Paper-arXiv-red.svg)](https://arxiv.org/pdf/2510.08052) [![Project Page](https://img.shields.io/badge/Project_Page-Visit-green.svg)](https://bheeshmsharma.github.io/RASALoRE/)
 <!-- 
 - [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 - [![Python](https://img.shields.io/badge/Python-3.8+-green.svg)](https://python.org)
