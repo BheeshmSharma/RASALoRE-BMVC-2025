@@ -193,13 +193,13 @@ python test_run.py
 If you find this work useful in your research, please cite:
 
 ```bibtex
-@inproceedings{
-Sharma2025rasalore,
-title={{RASAL}o{RE}: Region Aware Spatial Attention with Location-based Random Embeddings for Weakly Supervised Anomaly Detection in Brain MRI Scans},
-author={Bheeshm Sharma, Karthikeyan Jaganathan and Balamurugan Palaniappan},
-booktitle={The Thirty Sixth British Machine Vision Conference},
-year={2025},
-url={https://openreview.net/forum?id=A2Kylh60ai}
+@inproceedings{Sharma_2025_BMVC,
+author    = {Bheeshm Sharma and Karthikeyan Jaganathan and Balamurugan Palaniappan},
+title     = {RASALoRE: Region Aware Spatial Attention with Location-based Random Embeddings for Weakly Supervised Anomaly Detection in Brain MRI Scans},
+booktitle = {36th British Machine Vision Conference 2025, {BMVC} 2025, Sheffield, UK, November 24-27, 2025},
+publisher = {BMVA},
+year      = {2025},
+url       = {https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_1224/paper.pdf}
 }
 ```
 
